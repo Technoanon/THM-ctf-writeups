@@ -1,2 +1,2 @@
 # THM-ctf-writeups
-Flag-Captures
+Capture the Flag write-ups from TryHackMe

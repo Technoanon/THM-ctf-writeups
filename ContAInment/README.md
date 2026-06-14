@@ -8,7 +8,7 @@
 | **Category** | Incident Response / DFIR        |
 | **Target**   | West Tech Workstation `10.64.132.96` |
 | **User**     | o.deer (Oliver Deer)            |
-| **Flag**     | `thm{23,82,20,17,53}`           |
+| **Flag**     | `thm{**REDACTED**}`           |
 
 ---
 
@@ -194,7 +194,7 @@ with open('home/o.deer/westtech_projects/thm_flags.txt') as f:
 
 **Output:**
 ```
-FOUND: thm{23,82,20,17,53}  (Primes: 3)
+FOUND: thm{**REDACTED**}  (Primes: 3)
 ```
 
 > Primes confirmed: **23** ✓ &nbsp; **17** ✓ &nbsp; **53** ✓
@@ -204,7 +204,7 @@ FOUND: thm{23,82,20,17,53}  (Primes: 3)
 ## 🚩 Final Flag
 
 ```
-thm{23,82,20,17,53}
+thm{**REDACTED**}
 ```
 
 ---
